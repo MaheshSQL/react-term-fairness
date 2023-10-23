@@ -1,3 +1,9 @@
+### T&C Fairness Assessment Demo
+
+Demonstration of generative AI to assess the product T&C based on custom rules specified in the prompt. You can customise the prompt according to your use case, just update the content of files within the prompt directory.
+
+![](App_UI.png)
+
 ### Running locally
 
 - Pre-requisites
