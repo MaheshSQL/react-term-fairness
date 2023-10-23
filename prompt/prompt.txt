@@ -1,0 +1,67 @@
+Before you analyse the consumer contract terms and come back with unfair terms found (if any) along with why do you think the term is unfair, please take a note of below guidelines. 
+
+In deciding whether a term in a standard form consumer contract is unfair, please apply the three–limbed test for unfairness. A term of a consumer contract is unfair if it:
+1) would cause a significant imbalance in the parties’ rights and obligations arising under the contract
+2) is not reasonably necessary to protect the legitimate interests of the party who would be advantaged by the term; and
+3) would cause detriment (whether financial or otherwise) to a party if it were to be applied or relied on.
+
+Here are some examples of the types of terms in a standard form consumer contract that may be unfair and fair.
+
+Example 1: 
+Unfair contract term - Subject to any statutory rights which cannot be varied or exempted. You agree that the Operator shall not in any circumstances whatsoever be liable for any loss of or damage to your vehicle whether or not such loss or damage is caused by negligence or actions constituting fundamental breach of contract or the misdelivery of your vehicle to an unauthorised person or theft or vandalism or trickery and you further agree that if this exemption of liability does not apply then to the extent that you may lawfully do so you agree to limit the liability of the operator to pay you for the loss and damage to an amount not exceeding $300.
+Short explanation of why the term is unfair - The terms and conditions for a car parking site would be considered to be seeking to limit the company’s liability.
+
+Example 2: 
+Unfair contract term - I agree that you shall not be liable for fire, loss or damage to the vehicle whilst under your control or the loss of my contents thereof, equipment radio, tolls etc.
+Short explanation of why the term is unfair - A review of a motor vehicle repairer’s contracts found a number of terms and conditions regarding limitation of liability which was considered too broad and would potentially leave the consumer out of pocket even if the repairer drove the vehicle negligently and damaged it.
+
+Example 3: 
+Unfair contract term - If the customer changes his or her address (which will not necessarily be the address for receipt of billing information) this will also provide a ground to mobile service provider to terminate the Agreement. 
+Short explanation of why the term is unfair - A mobile phone contract that had an immediate termination clause for any breach potentially had an application so broad that it was considered unfair. These provisions are so broadly drawn, and are one–sided in their operation, they are unfair terms.
+
+Example 4: 
+Unfair contract term - Items may be confiscated at the discretion of management as per the ‘Confiscated Items Policy’.
+Short explanation of why the term is unfair - A review of the terms and conditions of major stadiums was conducted in Queensland. Certain items, such as cameras with lenses over 200 millimetres, were prohibited as a condition of entry. The ‘confiscated items policy’ sought to give management the right to confiscate a person’s property without returning it or compensating the consumer for taking it.
+
+Example 5: 
+Unfair contract term - The health club operator to unilaterally change the location of the club within a 12 kilometre radius of the club’s original location.
+Short explanation of why the term is unfair - A clause in a consumer contract allowing a health club operator to unilaterally change the location of the club within a 12 kilometre radius of the club’s original location, among other things, was found to be unfair because ‘it is a term to which the consumers’ attention is not specifically drawn, and which may operate in a way in which the consumer may not expect and to his or her disadvantage’.
+
+Example 6: 
+Unfair contract term - unilaterally vary the price under an existing contract without also providing the customer with a right to terminate.
+Unfair contract term - exclude liability, while providing company with virtually unlimited indemnity.
+Unfair contract term - unilaterally terminate the contract at any time with or without cause or reason.
+Short explanation of why the term is unfair - The clauses in the internet and fixed–line telephony and web design services company's consumer contract were unfair contract terms as they created a significant imbalance in the parties’ rights and obligations, were not reasonably necessary to protect company's legitimate interests and if applied or relied upon, would cause financial detriment to a consumer.
+
+Example 7: 
+Unfair contract term - We may change or update this website and the terms and conditions at any time without providing you with prior notice.
+Short explanation of why the term is unfair - The businesses trading online had problematic terms allowing the business to alter the terms and conditions during the life of the contract.
+
+Example 8: 
+Unfair contract term - We reserve the right to cancel this direct debit arrangement should one or more of Your debit payments be returned or dishonoured. You shall be responsible to pay dishonoured payment fee of $500 should Your debit payments be returned or dishonoured.
+Short explanation of why the term is unfair - This term is too harsh or disproportionate to the consequences of a missed payment, and it does not allow the customer a reasonable opportunity to rectify the situation.
+
+Example 9: 
+Fair contract term - A used motor vehicle contains a clause providing for a cooling-off period of one business day. 
+business day.
+Short explanation of why the term is fair - The Motor Dealers and Chattel Auctioneers Act 2014 (Qld) provides that a contract for the sale of a used motor vehicle must contain a clause providing for a cooling-off period of one business day.
+
+Example 10: 
+Fair contract term - We charge a 6% administration fee for monthly and quarterly payments made by direct debit. Please note Your Financial Institution may also charge for services relating to Your direct debit arrangements.
+Short explanation of why the term is fair - The administration fee details are mentioned upfront.
+
+Example 11: 
+Fair contract term - The details of Your direct debit request including a schedule of when payments will be drawn will be provided to You in writing. Payments will be withdrawn either annually, monthly or quarterly, depending on the selection You have made.
+Short explanation of why the term is fair - The payment withdraw schedule is necessary information required by service providing party for direct debit.
+
+Example 12: 
+Fair contract term - We reserve the right to cancel this direct debit arrangement should one or more of Your debit payments be returned or dishonoured. You shall be responsible for any fees associated with 
+dishonoured payments.
+Short explanation of why the term is fair - In this case, the term gives the business the right to cancel the direct debit arrangement if the customer fails to make one or more payments, and makes the customer responsible for any fees associated with dishonoured payments.
+
+You are now ready to analyse the Consumer contract terms and suggest rectified term example for unfair terms. 
+In the output just classify if the term is fair or unfair, provide a very short justification on a new line. The output should be formatted as a JSON dictionary {"verdict":"fair" or "unfair" or "Unable to analyse", "justification":"", "rectified":""}
+
+Do not make up answer, if you are unable to analyse provided term return {"verdict":"Unable to analyse", "justification":"", "rectified":""}.
+
+Consumer contract term to analyse:

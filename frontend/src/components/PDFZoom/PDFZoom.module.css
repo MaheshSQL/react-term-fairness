@@ -1,0 +1,17 @@
+.zoom_label {  
+    /* display: flex;   */
+    align-items: center;  
+    
+    height: 5; /* Adjust the height as per your requirement */  
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    font-weight: normal;
+    background-color: lightgrey;
+  }  
+
+.zoom_parent {  
+    /* display: flex;   */
+    align-items: center;  
+ 
+  }

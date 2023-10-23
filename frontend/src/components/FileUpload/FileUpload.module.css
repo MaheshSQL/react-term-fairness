@@ -1,0 +1,23 @@
+.input_container {
+    border: 1px solid #e5e5e5;
+  }
+  
+  input[type=file]::file-selector-button {
+    background-color: #0078d4;
+    color: #fff;
+    border: 0px;
+    border-right: 1px solid #e5e5e5;
+    padding: 10px 15px;
+    margin-right: 20px;
+    transition: .5s;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background-color: #71afe5;
+    border: 0px;
+    border-right: 1px solid #e5e5e5;
+  }

@@ -1,0 +1,15 @@
+.label {  
+    /* display: flex;   */
+    align-items: center;  
+    
+    /* height: 10px; Adjust the height as per your requirement   */
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: lightgrey;
+    
+  
+  }  
